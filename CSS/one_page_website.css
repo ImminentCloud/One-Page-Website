@@ -1,0 +1,51 @@
+html {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+.nav {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+
+}
+
+.signup input[type="text"] {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    background-color: black;
+    padding: 2% 1% 2% 7%;
+    border-top: 2px solid coral;
+    border-right: 4px dashed darkblue;
+    border-bottom: 2px solid darkblue;
+    border-left: 4px dashed coral;
+    box-shadow: 1px 3px 1px 3px gray;
+    background: ivory;
+    margin: 2px auto;
+    text-align: center;
+}
+
+.video {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8d8e8f;
+    padding: 2% 1% 2% 7%;
+    width: 80%;
+    border-top: 1px solid #090b0d;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid #090b0d;
+    margin: 10px 1cm;
+    border-radius: 7px;
+    background: #13161B;
+    box-shadow: inset 0px 3px 0px 0px rgba(5,5,5,.15);
+    font-family: 'Raleway', sans-serif;
+}
+}
